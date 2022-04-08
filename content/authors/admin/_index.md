@@ -44,7 +44,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/HossenRajib
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=LqE99qgAAAAJ&hl=en
 - icon: github
@@ -62,7 +62,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mdrajib.hossen@mavs.uta.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
