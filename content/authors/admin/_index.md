@@ -68,9 +68,13 @@ email: ""
 highlight_name: true
 ---
 
-I’m a Ph.D. Candidate of Computer Science department at the University of Texas at Arlington. 
-My PhD supervisor is Dr. Mohammad Atiqul Islam. I completed my B.Sc. (2015) in Computer Science and Engineering 
-from Khulna University of Engineering & Technology, Bangladesh. 
-After completing B.Sc, I worked for 3 years in some reputed software company of Bangladesh. 
-My primary research interests include Microservices, resource scaling, mobile edge computing, and Machine Learning.
+I’m a Ph.D. Candidate in Computer Science department at the University of Texas at Arlington. 
+My PhD supervisor is Dr. Mohammad Atiqul Islam. My primary research interests include Microservices, resource scaling, mobile edge computing, and Machine Learning.
+My recent research focuses are on finding efficient resources for microservices, building, and 
+managing of large-scale microservice deployments, and applying machine learning in systems.
+
+Before joining the PhD program, I worked for 3 years as a software engineer where I gather practical experiences on 
+cloud computing, software engineer, and machine learning.
+I completed my Bachelor's in Computer Science and Engineering  from Khulna University of Engineering & Technology, Bangladesh. 
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/rajibhossen_resume_v4.pdf" "newtab" >}}resumé{{< /staticref >}}.
