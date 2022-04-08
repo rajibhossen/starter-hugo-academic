@@ -17,7 +17,7 @@ main:
     url: '#projects'
     weight: 40
   - name: Awards
-    url: '#accomplisments'
+    url: '#accomplishments'
     weight: 50
   - name: Contact
     url: '#contact'
@@ -25,6 +25,6 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: Resume
+    url: uploads/rajibhossen_resume_v4.pdf
+    weight: 70
