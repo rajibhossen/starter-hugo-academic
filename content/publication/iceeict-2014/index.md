@@ -17,7 +17,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2014-04-10T00:00:00Z"
-doi: ""
+doi: "10.1109/ICEEICT.2014.6919119"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2014-10-9T00:00:00Z"

@@ -13,7 +13,7 @@ authors:
 author_notes:
 
 date: "2021-03-21T00:00:00Z"
-doi: ""
+doi: "10.1145/3466826.3466838"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-03-21T00:00:00Z"
@@ -64,8 +64,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 
-  - mobile_edge_computing
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
