@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "An approach to demand side load curtailment for the future intelligent and smart power grid of Bangladesh"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -53,7 +53,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://ieeexplore.ieee.org/abstract/document/6919119'
 url_video: ''
 
 # Featured image
@@ -68,8 +68,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- 
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -78,13 +77,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
