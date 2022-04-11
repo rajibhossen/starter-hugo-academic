@@ -37,7 +37,7 @@ abstract: Smart Grid, the future of the present electric grid has become one of 
 # Summary. An optional shortened abstract.
 summary: This paper describes a way to reduce the pick load selecting the victim consumer list and curtailing load in real time environment providing the consumer a minimum support rather than complete power cut off and thus optimizing the user satisfaction.
 
-tags: []
+tags: ['Smart Grid', 'Load Distribution']
 
 # Display this page in the Featured widget?
 featured: true
