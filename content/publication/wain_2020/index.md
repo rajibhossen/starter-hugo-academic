@@ -9,10 +9,7 @@ authors:
 - Mohammad A. Islam
 
 
-# Author notes (optional)
-author_notes:
-
-date: "2021-03-21T00:00:00Z"
+date: "2020-11-21T00:00:00Z"
 doi: "10.1145/3466826.3466838"
 
 # Schedule page publish date (NOT publication's date).
