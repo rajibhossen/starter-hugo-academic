@@ -6,7 +6,7 @@ title: "Mobile Task Offloading Under Unreliable Edge Performance"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Mohammad A. Islam
+- mohammad_islam
 
 
 date: "2020-11-21T00:00:00Z"
