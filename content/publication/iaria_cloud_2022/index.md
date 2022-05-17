@@ -45,7 +45,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'slides/iaria_cloud_2022.pdf'
 url_source: 'https://www.thinkmind.org/index.php?view=article&articleid=cloud_computing_2022_2_10_20007'
 url_video: 'https://youtu.be/h-2YUzopHRo'
 
