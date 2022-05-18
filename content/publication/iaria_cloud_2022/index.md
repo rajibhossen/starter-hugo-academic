@@ -22,8 +22,8 @@ publishDate: "2022-04-24T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: The Thirteenth International Conference on Cloud Computing, GRIDs, and Virtualization (CLOUD COMPUTING 2022)
-publication_short: The Thirteenth International Conference on Cloud Computing, GRIDs, and Virtualization (CLOUD COMPUTING 2022)
+publication: The Thirteenth International Conference on Cloud Computing, GRIDs, and Virtualization ([CLOUD COMPUTING 2022](https://www.iaria.org/conferences2022/CLOUDCOMPUTING22.html))
+publication_short: The Thirteenth International Conference on Cloud Computing, GRIDs, and Virtualization ([CLOUD COMPUTING 2022](https://www.iaria.org/conferences2022/CLOUDCOMPUTING22.html))
 
 abstract: Cloud applications are moving towards microservice-based implementations where larger applications are broken into lighter-weight and loosely-coupled small services. Microservices offer significant benefits over monolithic applications as they are more easily deployable, highly scalable, and easy to update. However, resource management for microservices is challenging due to their number and complex interactions. Existing approaches either cannot capture the microservice inter-dependence or require extensive training data for their models and intentionally cause note{service level objective} violations. In our work, we are developing a lightweight learning-based resource manager for microservices that does not require extensive data and avoid causing note{service level objective} violation during learning. We start with ample resource allocation for microservices and identify resource reduction opportunities to gradually decrease the resource to efficient allocation. We demonstrate the main challenges in microservice resource allocation using three prototype applications and show preliminary results to support our design intuition.
 

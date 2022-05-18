@@ -21,29 +21,46 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Student Researcher
+    company: The University of Texas at Arlington
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: uta_logo
+    location: Texas
+    date_start: '2019-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+    description: Research on Microservices, Distributed Systems, and Machine Learning. Teaching Assistant for Advance Algorithms, Introduction to Programming
+      
+  - title: Software Engineer
+    company: Goava Sales Intelligence AB
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: goava-g
+    location: Dhaka, Bangladesh
+    date_start: '2018-01-01'
+    date_end: '2018-07-31'
+    description: Accelerated development phase and conserved resources of the company by introducing APIs for providing personalized recommendations, custom filtering, and targeted companies for B2B
+
+  - title: Software Engineer
+    company: IPVision Soft Ltd
+    company_url: ''
+    company_logo: 
+    location: Dhaka, Bangladesh
+    date_start: '2016-09-01'
+    date_end: '2017-12-31'
+    description: 
+      * Reduced cloud computing cost by 83% compared with Amazon AWS by deploying a private cluster with 99% uptime
+      * Improved the efficiency of a cluster deployment of 50 Node by 75% using automation scripts in Python
+
+  - title: Jr. Software Engineer
+    company: Workspace Infotech Ltd
+    company_url: ''
+    company_logo: 
+    location: Dhaka, Bangladesh
+    date_start: '2015-07-01'
+    date_end: '2016-08-31'
+    description: Designed and built complete applications including backend and front end systems for mobile applications and websites
+  
 
 design:
   columns: '2'
