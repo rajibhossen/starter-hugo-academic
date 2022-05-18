@@ -25,7 +25,7 @@ date_format: Jan 2006
 experience:
   - title: Graduate Student Researcher
     company: The University of Texas at Arlington
-    company_url: ''
+    company_url: 'https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse'
     company_logo: uta_logo
     location: Texas
     date_start: '2019-09-01'
@@ -34,8 +34,8 @@ experience:
       
   - title: Software Engineer
     company: Goava Sales Intelligence AB
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'https://www.goava.com/en/'
+    company_logo: goava-g
     location: Dhaka, Bangladesh
     date_start: '2018-01-01'
     date_end: '2018-07-31'
@@ -44,7 +44,7 @@ experience:
   - title: Software Engineer
     company: IPVision Soft Ltd
     company_url: ''
-    company_logo: 
+    company_logo: ''
     location: Dhaka, Bangladesh
     date_start: '2016-09-01'
     date_end: '2017-12-31'
@@ -54,8 +54,8 @@ experience:
 
   - title: Jr. Software Engineer
     company: Workspace Infotech Ltd
-    company_url: ''
-    company_logo: 
+    company_url: 'https://www.workspaceit.com/service/'
+    company_logo: ''
     location: Dhaka, Bangladesh
     date_start: '2015-07-01'
     date_end: '2016-08-31'
