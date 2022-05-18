@@ -35,7 +35,7 @@ experience:
   - title: Software Engineer
     company: Goava Sales Intelligence AB
     company_url: ''
-    company_logo: goava-g
+    company_logo: org-gc
     location: Dhaka, Bangladesh
     date_start: '2018-01-01'
     date_end: '2018-07-31'
@@ -48,7 +48,9 @@ experience:
     location: Dhaka, Bangladesh
     date_start: '2016-09-01'
     date_end: '2017-12-31'
-    description: Reduced cloud computing cost by 83% compared with Amazon AWS by deploying a private cluster with 99% uptime. Improved the efficiency of a cluster deployment of 50 Node by 75% using automation scripts in Python
+    description: |2-
+      * Reduced cloud computing cost by 83% compared with Amazon AWS by deploying a private cluster with 99% uptime
+      * Improved the efficiency of a cluster deployment of 50 Node by 75% using automation scripts in Python
 
   - title: Jr. Software Engineer
     company: Workspace Infotech Ltd
