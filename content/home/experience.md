@@ -43,8 +43,6 @@ experience:
 
   - title: Software Engineer
     company: IPVision Soft Ltd
-    company_url: ''
-    company_logo: ''
     location: Dhaka, Bangladesh
     date_start: '2016-09-01'
     date_end: '2017-12-31'
@@ -55,7 +53,6 @@ experience:
   - title: Jr. Software Engineer
     company: Workspace Infotech Ltd
     company_url: 'https://www.workspaceit.com/service/'
-    company_logo: ''
     location: Dhaka, Bangladesh
     date_start: '2015-07-01'
     date_end: '2016-08-31'
