@@ -47,6 +47,14 @@ item:
   organization_url: http://duits-bd.org/
   title: 2nd Place in Best App (Mobile & Desktop) Development Hackathon
   url: "http://duits-bd.org/"
+- certificate_url: 
+  date_end: "2015-05-15"
+  date_start: "2013-02-10"
+  description: Deans List Award for outstanding academic results (GPA > 3.75/4.0) for 2 consecutive years
+  organization: Khulna University of Engineering and Technology
+  organization_url: https://kuet.ac.bd/
+  title: Dean's List Award
+  url: "https://kuet.ac.bd/"
 
 design:
   columns: '2' 
