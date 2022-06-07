@@ -30,8 +30,7 @@ experience:
     location: Texas
     date_start: '2019-09-01'
     date_end: ''
-    description: Research on Microservices, Distributed Systems, and Machine Learning. Teaching Assistant for Advance Algorithms, Introduction to Programming. |2-
-        * Teaching Assistant - CSE 5311-Design & Analysis of Algorithms (Fall & Spring - 2020,2021,2022), CSE 1320-Introduction to Programming (Summer - 2020,2021)
+    description: Research on Microservices, Distributed Systems, and Machine Learning. Teaching Assistant for Advance Algorithms, Introduction to Programming. Teaching Assistant - CSE 5311-Design & Analysis of Algorithms (Fall & Spring - 2020,2021,2022), CSE 1320-Introduction to Programming (Summer - 2020,2021)
       
   - title: Software Engineer
     company: Goava Sales Intelligence AB
