@@ -7,7 +7,7 @@ title: "Practical Efficient Microservice Autoscaling with QoS Assurance"
 authors:
 - admin
 - mohammad_islam
-- Kishwar Ahmed
+- kishwar_ahmed
 
 
 date: "2022-06-26T00:00:00Z"
