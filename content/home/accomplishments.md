@@ -25,9 +25,9 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2022-02-25"
-  description: ""
-  organization: The University of Texas at Arlington
+  date_start: "2022-02-21"
+  description: "Annual Student Computing Research Festival (SCRF) is an all-day event that allow students of any major to showcase their computing-related work in and out of classrooms, learn from professional role models, and engage with leaders of industry and society"
+  organization: Student Computing Research Festival (SCRF)@The University of Texas at Arlington
   organization_url: https://uta.engineering/scrf/
   title: Best Poster Awards (Honorable Mention)
   url: "https://uta.engineering/scrf/"

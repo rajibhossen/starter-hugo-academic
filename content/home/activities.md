@@ -32,6 +32,14 @@ item:
   title: President of Bangladesh Student Organization (BSO@UTA)
   url: "https://mavorgs.campuslabs.com/engage/organization/bso"
 - certificate_url: 
+  date_end: "2014-04-18"
+  date_start: "2014-04-14"
+  description: An Annual Showcase of Research and Innovation from Undergraduate and Graduate UTA Engineering Students at The University of Texas at Arlington
+  organization: Innovation Day 2022
+  organization_url: https://uta.engineering/innovationday/
+  title: Judge
+  url: "https://uta.engineering/innovationday/"
+- certificate_url: 
   date_end: "2020-11-20"
   date_start: "2020-11-15"
   description: Volunteered at the ACM SIGPLAN conference on Systems, Programming, Languages, and Applications Software for Humanity
