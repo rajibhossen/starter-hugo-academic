@@ -32,8 +32,8 @@ item:
   title: President of Bangladesh Student Organization
   url: "https://mavorgs.campuslabs.com/engage/organization/bso"
 - certificate_url: 
-  date_end: "2022-11-20"
-  date_start: "2022-11-15"
+  date_end: "2020-11-20"
+  date_start: "2020-11-15"
   description: Volunteered at the ACM SIGPLAN conference on Systems, Programming, Languages, and Applications Software for Humanity
   organization: SPLASH 2020
   organization_url: https://2020.splashcon.org/
