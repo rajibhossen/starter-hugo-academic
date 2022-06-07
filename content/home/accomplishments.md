@@ -39,6 +39,14 @@ item:
   organization_url: 
   title: SIGMETRICS 2022 Student Grant
   url: "https://www.sigmetrics.org/sigmetrics2022/index.html"
+- certificate_url: 
+  date_end: ""
+  date_start: "2014-03-10"
+  description: We achieved second place (among 50 teams) for developing a complete application within three days in a Hackathon
+  organization: Dhaka University IT Society
+  organization_url: http://duits-bd.org/
+  title: 2nd Place in Best App (Mobile & Desktop) Development Hackathon
+  url: "http://duits-bd.org/"
 
 design:
   columns: '2' 
