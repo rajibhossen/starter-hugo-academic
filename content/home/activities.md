@@ -27,9 +27,9 @@ item:
   date_end: "2022-07-31"
   date_start: "2021-08-01"
   description: "Served as a president of the largest student organization of Bangladeshi students in the University of Texas at Arlington"
-  organization: Bangladesh Student Organization
+  organization: Bangladesh Student Organization at UTA
   organization_url: https://mavorgs.campuslabs.com/engage/organization/bso
-  title: President of Bangladesh Student Organization
+  title: President of Bangladesh Student Organization (BSO@UTA)
   url: "https://mavorgs.campuslabs.com/engage/organization/bso"
 - certificate_url: 
   date_end: "2020-11-20"
