@@ -24,35 +24,12 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: The 31st International Symposium on High-Performance Parallel and Distributed Computing ([ACM HPDC 2022](https://www.hpdc.org/2022/))
-publication_short: The 31st International Symposium on High-Performance Parallel and Distributed Computing ([ACM HPDC 2022](https://www.hpdc.org/2022/))
+publication_short: [ACM HPDC 2022](https://www.hpdc.org/2022/)
 
-abstract: Cloud applications are increasingly moving away from monolithic
-services to agile microservices-based deployments. However, effi-
-cient resource management for microservices poses a significant
-hurdle due to the sheer number of loosely coupled and interacting
-components. The interdependencies between various microservices
-make existing cloud resource autoscaling techniques ineffective.
-Meanwhile, machine learning (ML) based approaches that try to cap-
-ture the complex relationships in microservices require extensive
-training data and cause intentional SLO violations. Moreover, these
-ML-heavy approaches are slow in adapting to dynamically chang-
-ing microservice operating environments. In this paper, we propose
-PEMA (Practical Efficient Microservice Autoscaling), a lightweight
-microservice resource manager that finds efficient resource alloca-
-tion through opportunistic resource reduction. PEMA’s lightweight
-design enables novel workload-aware and adaptive resource man-
-agement. Using three prototype microservice implementations, we
-show that PEMA can find efficient resource allocation and save up
-to 33% resource compared to the commercial rule-based resource
-allocations
+abstract: Cloud applications are increasingly moving away from monolithic services to agile microservices-based deployments. However, efficient resource management for microservices poses a significant hurdle due to the sheer number of loosely coupled and interacting components. The interdependencies between various microservices make existing cloud resource autoscaling techniques ineffective. Meanwhile, machine learning (ML) based approaches that try to capture the complex relationships in microservices require extensive training data and cause intentional SLO violations. Moreover, these ML-heavy approaches are slow in adapting to dynamically changing microservice operating environments. In this paper, we propose PEMA (Practical Efficient Microservice Autoscaling), a lightweight microservice resource manager that finds efficient resource allocation through opportunistic resource reduction. PEMA’s lightweight design enables novel workload-aware and adaptive resource management. Using three prototype microservice implementations, we show that PEMA can find efficient resource allocation and save up to 33% resource compared to the commercial rule-based resource allocations.
 
 # Summary. An optional shortened abstract.
-summary:  In this paper, we propose
-PEMA (Practical Efficient Microservice Autoscaling), a lightweight
-microservice resource manager that finds efficient resource alloca-
-tion through opportunistic resource reduction. PEMA’s lightweight
-design enables novel workload-aware and adaptive resource man-
-agement.
+summary:  In this paper, we propose PEMA (Practical Efficient Microservice Autoscaling), a lightweight microservice resource manager that finds efficient resource allocation through opportunistic resource reduction. PEMA’s lightweight design enables novel workload-aware and adaptive resource management.
 
 tags: ['Microservices', 'Resource Management', 'Cloud Computing', 'Kubernetes', 'Service-Level-Objective']
 
