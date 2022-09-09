@@ -24,6 +24,24 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
+  date_end: "2022-08-16"
+  date_start: "2022-06-01"
+  description: "The I-Engage program by the graduate office offers doctoral students an opportunity to practice mentorship skills and exposes undergraduates to cutting-edge research in their field. I submitted a proposal to conduct research with an undergraduate student. Our proposal got accepted and we got funding to conduct research in the Summer of 2022."
+  organization: Office of the Graduate Studies @ The University of Texas at Arlington
+  organization_url: https://www.uta.edu/academics/schools-colleges/gradschool
+  title: I-Engage Mentoring Program Summer Research Grant ($2000 + $1000 for undergraduate student)
+  url: "https://www.uta.edu/academics/schools-colleges/gradschool/resources/workshops-and-programs/i-engage"
+
+- certificate_url: 
+  date_end: "2022-07-01"
+  date_start: "2022-06-27"
+  description: "Received Travel Grant of $1000 to attend the HPDC 2022 Conference in Minneapolis, Minnesota, USA"
+  organization: Student Computing Research Festival (SCRF)@The University of Texas at Arlington
+  organization_url: https://www.hpdc.org/2022/
+  title: HPDC'22 Student Travel Grant
+  url: "https://www.hpdc.org/2022/"
+
+- certificate_url: 
   date_end: ""
   date_start: "2022-02-21"
   description: "Annual Student Computing Research Festival (SCRF) is an all-day event that allow students of any major to showcase their computing-related work in and out of classrooms, learn from professional role models, and engage with leaders of industry and society"
@@ -31,6 +49,7 @@ item:
   organization_url: https://uta.engineering/scrf/
   title: Best Poster Awards (Honorable Mention)
   url: "https://uta.engineering/scrf/"
+
 - certificate_url: 
   date_end: ""
   date_start: "2022-05-25"
@@ -39,6 +58,7 @@ item:
   organization_url: 
   title: SIGMETRICS 2022 Student Grant
   url: "https://www.sigmetrics.org/sigmetrics2022/index.html"
+
 - certificate_url: 
   date_end: ""
   date_start: "2014-03-10"
@@ -47,6 +67,7 @@ item:
   organization_url: http://duits-bd.org/
   title: 2nd Place in Best App (Mobile & Desktop) Development Hackathon
   url: "http://duits-bd.org/"
+
 - certificate_url: 
   date_end: "2015-05-15"
   date_start: "2013-02-10"
