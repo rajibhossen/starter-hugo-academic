@@ -2,7 +2,9 @@
 title: Microesrvice Resource Autoscaler
 summary: A resource manager that practically and effectively finds near optimum resource configurations for microservice applications.
 tags:
-- Resource Autoscaler, Microesrvice, Kubernetes
+- Resource Autoscaler
+- Microesrvice
+- Kubernetes
 date: "2022-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
