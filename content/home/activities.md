@@ -24,6 +24,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
+  date_end: "2022-08-16"
+  date_start: "2022-06-01"
+  description: Worked as a Mentor for an undergraduate student during the Summer of 2022 to conduct a research project. 
+  organization: Graduate School of UTA
+  organization_url: https://www.uta.edu/academics/schools-colleges/gradschool/resources/workshops-and-programs/i-engage
+  title: Graduate Mentor for I-Engage Summer Research 2022
+  url: "https://www.uta.edu/academics/schools-colleges/gradschool/resources/workshops-and-programs/i-engage"
+
+- certificate_url: 
   date_end: "2022-07-31"
   date_start: "2021-08-01"
   description: "Served as a president of the largest student organization of Bangladeshi students in the University of Texas at Arlington"
@@ -31,6 +40,7 @@ item:
   organization_url: https://mavorgs.campuslabs.com/engage/organization/bso
   title: President of Bangladesh Student Organization (BSO@UTA)
   url: "https://mavorgs.campuslabs.com/engage/organization/bso"
+
 - certificate_url: 
   date_end: "2022-04-18"
   date_start: "2022-04-14"
@@ -39,6 +49,7 @@ item:
   organization_url: https://uta.engineering/innovationday/
   title: Judge
   url: "https://uta.engineering/innovationday/"
+
 - certificate_url: 
   date_end: "2020-11-20"
   date_start: "2020-11-15"
@@ -47,11 +58,12 @@ item:
   organization_url: https://2020.splashcon.org/
   title: Student Volunteer
   url: "https://2020.splashcon.org/"
+
 - certificate_url: 
   date_end: "2014-02-15"
   date_start: "2014-02-13"
   description: Volunteered at the 1st International Conference on Electrical Information and Communication Technology (EICT 2021)
-  organization: SPLASH 2020
+  organization: EICT 2014
   organization_url: https://www.kuet.ac.bd/eict2021/?page_id=630
   title: Student Volunteer
   url: "https://ieeexplore.ieee.org/xpl/conhome/6766336/proceeding"

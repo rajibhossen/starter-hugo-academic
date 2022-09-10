@@ -35,8 +35,8 @@ item:
 - certificate_url: 
   date_end: "2022-07-01"
   date_start: "2022-06-27"
-  description: "Received Travel Grant of $1000 to attend the HPDC 2022 Conference in Minneapolis, Minnesota, USA"
-  organization: Student Computing Research Festival (SCRF)@The University of Texas at Arlington
+  description: "Received Travel Grant to attend the HPDC 2022 Conference in Minneapolis, Minnesota, USA"
+  organization: High Performance Parallel and Distributed Computing 2022
   organization_url: https://www.hpdc.org/2022/
   title: HPDC'22 Student Travel Grant
   url: "https://www.hpdc.org/2022/"
