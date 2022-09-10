@@ -46,7 +46,7 @@ url_code: 'https://github.com/rajibhossen/microservice-autoscaling'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://rajib-hossen.com/slides/hossen_hpdc_22.pdf' 
 url_source: ''
 url_video: ''
 
@@ -62,7 +62,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [microservice_autoscaler]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
