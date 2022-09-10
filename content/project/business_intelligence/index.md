@@ -3,7 +3,9 @@ title: Business Intelligence Application
 summary: Business to Business Application APIs to provide recommendations, custom filtering, and detail information of potential businesses.
 
 tags:
-- Business Intelligence, Data Analysis, Machine Learning
+- Business Intelligence
+- Data Analysis
+- Machine Learning
 date: "2018-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

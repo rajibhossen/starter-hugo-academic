@@ -3,7 +3,9 @@ title: Mobile Edge Offloader Engine
 summary: Reinforcement Learning Based Mobile Edge Offloader Enginer.
 
 tags:
-- Resource Management, Mobile Edge Computing, Reinforcement Learning
+- Resource Management
+- Mobile Edge Computing
+- Reinforcement Learning
 date: "2020-01-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
