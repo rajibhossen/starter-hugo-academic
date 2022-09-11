@@ -43,7 +43,7 @@ featured: true
 url_pdf: ''
 url_code: 'https://github.com/rajibhossen/microservice-autoscaling'
 url_dataset: ''
-url_poster: 'https://rajib-hossen.com/slides/poster_99_mdrajib_hossen.pdf'
+url_poster: 'poster_99_mdrajib_hossen.pdf'
 url_project: ''
 url_slides: '' 
 url_source: ''
