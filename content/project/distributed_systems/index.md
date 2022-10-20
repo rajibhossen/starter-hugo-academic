@@ -1,6 +1,6 @@
 ---
 title: Cloud Computing Hands On
-summary: Implemented K-Means clustering, and graph partitioning for cloud ecosystem of Hadoop.
+summary: Implemented K-Means clustering, and graph partitioning using MapReduce, Spark (SCALA), Pig, Hive and executed in Hadoop framework as class projects.
 
 tags:
 - Cloud Computing, Spark, MapReduce, Pig, Hive

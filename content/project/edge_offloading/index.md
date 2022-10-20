@@ -1,6 +1,6 @@
 ---
 title: Mobile Edge Offloader Engine
-summary: Reinforcement Learning Based Mobile Edge Offloader Enginer.
+summary: A mobile edge offloading engine that offloads task from mobile devices to edge and cloud servers based on cloud computation availability, mobile energy, and task execution time. It utilizes reinforcement learning to learn the environment without any previous knowledge.
 
 tags:
 - Resource Management

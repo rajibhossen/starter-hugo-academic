@@ -1,6 +1,6 @@
 ---
 title: Business Intelligence Application
-summary: Business to Business Application APIs to provide recommendations, custom filtering, and detail information of potential businesses.
+summary: Business to Business Application APIs to provide recommendations, custom filtering, and detail information of potential businesses. we built a data processing pipeline where we automatically collect raw data from crawler team, then indexed the data using ElasticSearch and store them in S3 Database. To serve web requests, and mobile client, we developed APIs that queries from ES and used machine learning to recommend potential customers, provided custom metrics, and insights from unprocessed large informations.
 
 tags:
 - Business Intelligence

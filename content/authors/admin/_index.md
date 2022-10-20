@@ -14,7 +14,7 @@ organizations:
   url: https://www.uta.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Microservices, Distributed Systems, Machine Learning.
+bio: My research interests include Microservices, Distributed Systems, Machine Learning, and HPC.
 
 # Interests to show in About widget
 interests:
@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Computer Science and Engineering
     institution: The University of Texas at Arlington
-    year: August 2023 (Expected)
+    year: December 2023 (Expected)
   - course: BSc in Computer Science and Engineering
     institution: Khulna University of Engineering & Technology
     year: 2015
@@ -69,12 +69,12 @@ highlight_name: true
 ---
 
 I’m a Ph.D. Candidate in Computer Science department at the University of Texas at Arlington. 
-My PhD supervisor is Dr. Mohammad Atiqul Islam. My primary research interests include Microservices, resource scaling, mobile edge computing, and Machine Learning.
-My recent research focuses are on finding efficient resources for microservices, building, and 
+My PhD supervisor is Dr. Mohammad Atiqul Islam. My primary research interests include Microservices, resource scaling, mobile edge computing, and Machine Learning. My recent research focuses are on finding efficient resources for microservices, building, and 
 managing of large-scale microservice deployments, and applying machine learning in systems.
 
 Before joining the PhD program, I worked for 3 years as a software engineer where I gather practical experiences on 
 cloud computing, software engineer, and machine learning.
 I completed my Bachelor's in Computer Science and Engineering  from Khulna University of Engineering & Technology, Bangladesh. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/rajibhossen_resume_v4.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/rajibhossen_resume.pdf" "newtab" >}}resumé{{< /staticref >}} / {{< staticref "uploads/rajibhossen_CV.pdf" "newtab" >}}CV{{< /staticref >}}
+

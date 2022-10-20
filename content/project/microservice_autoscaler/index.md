@@ -1,6 +1,7 @@
 ---
 title: Microesrvice Resource Autoscaler
-summary: A resource manager that practically and effectively finds near optimum resource configurations for microservice applications.
+summary: A resource manager on top of kubernetes that automatically finds optimum resources for deployed application without human intervention. Upon doing that, the resource manager does not violate SLO and does not need offline datasets for training. The algorithm is simple yet effective in real world scenario.
+
 tags:
 - Resource Autoscaler
 - Microesrvice

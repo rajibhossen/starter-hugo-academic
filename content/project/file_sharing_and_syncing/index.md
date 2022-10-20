@@ -1,6 +1,6 @@
 ---
 title: File Sharing and Syncing
-summary: A file sharing application to share confidential in house data including syncing mechanism. T
+summary: A file sharing application to share confidential in house data including syncing mechanism.
 
 tags:
 - Distributed Systems
