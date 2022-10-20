@@ -1,13 +1,13 @@
 ---
-title: "Practical Efficient Microservice Autoscaling with QoS Assurance"
+title: "Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- mohammad_islam
 - kishwar_ahmed
+- mohammad_islam
 
 
 date: "2023-02-26T00:00:00Z"
