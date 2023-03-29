@@ -11,7 +11,7 @@ authors:
 
 
 date: "2023-02-26T00:00:00Z"
-doi: ""
+doi: "10.1109/HPCA56546.2023.10071006"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-19T00:00:00Z"
@@ -23,8 +23,8 @@ publishDate: "2022-10-19T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: The 29th IEEE International Symposium on High-Performance Computer Architecture ([IEEE HPCA 2023](https://hpca-conf.org/2023/))
-publication_short: The 29th IEEE International Symposium on High-Performance Computer Architecture ([IEEE HPCA 2023](https://hpca-conf.org/2023/))
+publication: The 29th IEEE International Symposium on High-Performance Computer Architecture ([IEEE HPCA 2023](https://ieeexplore.ieee.org/abstract/document/10071006))
+publication_short: The 29th IEEE International Symposium on High-Performance Computer Architecture ([IEEE HPCA 2023](https://ieeexplore.ieee.org/abstract/document/10071006))
 
 abstract: Significant power consumption is one of the major challenges for current and future high-performance computing (HPC) systems. All the while, HPC systems generally remain power underutilized, making them a great candidate for applying power oversubscription to reclaim unused capacity. However, an oversubscribed HPC system may occasionally get overloaded. In this paper, we propose MPR (Market-based Power Reduction), a scalable market-based approach where users actively participate in reducing the HPC system's power consumption to mitigate overloads. In MPR, HPC users bid to supply, in exchange for incentives, the resource reduction required for handling the overloads. Using several real-world trace-based simulations, we extensively evaluate MPR and show that, by participating in MPR, users always receive more rewards than the cost of performance loss. At the same time, the HPC manager enjoys orders of magnitude more resource gain than her incentive payoff to the users. We also demonstrate the real-world effectiveness of MPR on a prototype system.
 
@@ -46,7 +46,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '' 
+url_slides: 'https://rajib-hossen.com/slides/ahmed_hpca_23.pptx' 
 url_source: ''
 url_video: ''
 
