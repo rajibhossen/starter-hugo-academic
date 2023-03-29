@@ -46,7 +46,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://rajib-hossen.com/slides/ahmed_hpca_23.pptx' 
+url_slides: 'https://rajib-hossen.com/slides/ahmed_hpca_23.pdf' 
 url_source: ''
 url_video: ''
 
