@@ -17,7 +17,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: mdrajib.hossen@mavs.uta.edu
-  phone: 682 367 3826
+  phone: 
   address:
     street: 500 UTA BLVD
     city: Arlington

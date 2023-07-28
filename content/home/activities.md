@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Activities'
@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url:
+  date_start: "2023-08-17"
+  date_end: "2023-08-18"
+  description: I'm selected as a rising star for the 2023 inaugural MLCommons Rising Stars program. The two day long program will provide me an opportunity to present my research, attend talks on latest achievments in ML and Systems, network with academicians and industry practitioners.
+  organization: MLCommons
+  organization_url: https://mlcommons.org/en/
+  title: MLCommons Rising Star 2023 Participant
+  url: "https://mlcommons.org/en/news/rising-stars-2023/"
+  
 - certificate_url: 
   date_end: "2022-08-16"
   date_start: "2022-06-01"
@@ -69,5 +78,5 @@ item:
   url: "https://ieeexplore.ieee.org/xpl/conhome/6766336/proceeding"
 
 design:
-  columns: '2' 
+  columns: '1' 
 ---
