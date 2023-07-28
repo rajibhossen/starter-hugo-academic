@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Jan 2, 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -26,16 +26,16 @@ item:
 - certificate_url:
   date_start: "2023-08-17"
   date_end: "2023-08-18"
-  description: I'm selected as a rising star for the 2023 inaugural MLCommons Rising Stars program. The two day long program will provide me an opportunity to present my research, attend talks on latest achievments in ML and Systems, network with academicians and industry practitioners.
+  description: 🌟 I'm selected as a rising star for the 2023 inaugural MLCommons Rising Stars program. The two day long program will provide me an opportunity to present my research, attend talks on latest achievments in ML and Systems, network with academicians and industry practitioners. The workshop is organized by ML Commons system at the Google Campus in Sunnyvale. 
   organization: MLCommons
   organization_url: https://mlcommons.org/en/
   title: MLCommons Rising Star 2023 Participant
   url: "https://mlcommons.org/en/news/rising-stars-2023/"
-  
+
 - certificate_url: 
   date_end: "2022-08-16"
   date_start: "2022-06-01"
-  description: Worked as a Mentor for an undergraduate student during the Summer of 2022 to conduct a research project. 
+  description: 🧑‍🏫Worked as a Mentor for an undergraduate student during the Summer of 2022 to conduct a research project. 
   organization: Graduate School of UTA
   organization_url: https://www.uta.edu/academics/schools-colleges/gradschool/resources/workshops-and-programs/i-engage
   title: Graduate Mentor for I-Engage Summer Research 2022
@@ -78,5 +78,5 @@ item:
   url: "https://ieeexplore.ieee.org/xpl/conhome/6766336/proceeding"
 
 design:
-  columns: '1' 
+  columns: '2' 
 ---
