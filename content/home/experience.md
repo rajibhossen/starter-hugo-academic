@@ -26,7 +26,7 @@ experience:
   - title: Computing Scholar Graduate Intern 
     company: Lawrence Livermore National Laboratories
     company_url: 'https://www.llnl.gov/'
-    company_logo: 'llnl-logo'
+    company_logo: llnl-logo
     location: Livermore, California
     date_start: '2023-05-15'
     date_end: '2023-08-18'
