@@ -26,7 +26,7 @@ experience:
   - title: Computing Scholar Graduate Intern 
     company: Lawrence Livermore National Laboratories
     company_url: 'https://www.llnl.gov/'
-    company_logo: 
+    company_logo: llnl-logo
     location: Livermore, California
     date_start: '2023-05-15'
     date_end: '2023-08-18'
@@ -35,7 +35,7 @@ experience:
   - title: Graduate Student Researcher
     company: The University of Texas at Arlington
     company_url: 'https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse'
-    company_logo: 
+    company_logo: uta_logo
     location: Texas
     date_start: '2019-09-01'
     date_end: ''
