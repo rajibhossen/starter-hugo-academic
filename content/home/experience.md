@@ -23,10 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Computing Scholar Graduate Intern 
+    company: Lawrence Livermore National Laboratories
+    company_url: 'https://www.llnl.gov/'
+    company_logo: 'llnl-logo'
+    location: Livermore, California
+    date_start: '2023-05-15'
+    date_end: '2023-08-18'
+    description: 
+  
   - title: Graduate Student Researcher
     company: The University of Texas at Arlington
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse'
+    company_logo: uta_logo 
     location: Texas
     date_start: '2019-09-01'
     date_end: ''
