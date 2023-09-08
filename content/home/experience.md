@@ -30,8 +30,9 @@ experience:
     location: Livermore, California
     date_start: '2023-05-15'
     date_end: '2023-08-18'
-    description: 
-  
+    description: |2-
+      * txt 
+      * txt 
   - title: Graduate Student Researcher
     company: The University of Texas at Arlington
     company_url: 'https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse'
@@ -39,7 +40,11 @@ experience:
     location: Texas
     date_start: '2019-09-01'
     date_end: ''
-    description: Research on Microservices, Distributed Systems, and Machine Learning. Teaching Assistant for Advance Algorithms, Introduction to Programming. Teaching Assistant - CSE 5311-Design & Analysis of Algorithms (Fall & Spring - 2020,2021,2022), CSE 1320-Introduction to Programming (Summer - 2020,2021)
+    description: |2-
+      * Optimize resource usage of microservice applications in the cloud computing 
+      * Develop Resource Manager on top of kubernetes for microservices  
+      * Identify root cause of the resource bottlencecks of microservices  
+      * Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading
       
   - title: Software Engineer
     company: Goava Sales Intelligence AB
@@ -48,7 +53,8 @@ experience:
     location: Dhaka, Bangladesh
     date_start: '2018-01-01'
     date_end: '2018-07-31'
-    description: Accelerated development phase and conserved resources of the company by introducing APIs for providing personalized recommendations, custom filtering, and targeted companies for B2B
+    description: |2-
+      * Accelerated development phase and conserved resources of the company by introducing APIs for providing personalized recommendations, custom filtering, and targeted companies for B2B
 
   - title: Software Engineer
     company: IPVision Soft Ltd

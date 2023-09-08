@@ -14,21 +14,23 @@ organizations:
   url: https://www.uta.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Microservices, Distributed Systems, Machine Learning, and HPC.
+bio: My research interests include Microservices, HPC, Distributed Systems, Machine Learning, and Converged Computing 
 
 # Interests to show in About widget
 interests:
 - Cloud Computing
 - Microservices
+- High Performance Computing 
 - Machine Learning for Systems
 - Distributed Systems
+- HPC in the Cloud 
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Computer Science and Engineering
     institution: The University of Texas at Arlington
-    year: December 2023 (Expected)
+    year: May 2024 (Expected)
   - course: BSc in Computer Science and Engineering
     institution: Khulna University of Engineering & Technology
     year: 2015
