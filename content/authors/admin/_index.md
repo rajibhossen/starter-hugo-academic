@@ -14,13 +14,13 @@ organizations:
   url: https://www.uta.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Microservices, HPC, Distributed Systems, Machine Learning, and Converged Computing 
+bio: My research interests include Microservices, HPC, Distributed Systems, Machine Learning, and Converged Computing
 
 # Interests to show in About widget
 interests:
 - Cloud Computing
 - Microservices
-- High Performance Computing 
+- High Performance Computing (HPC)
 - Machine Learning for Systems
 - Distributed Systems
 - HPC in the Cloud 

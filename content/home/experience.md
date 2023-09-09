@@ -23,16 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Computing Scholar Graduate Intern 
+  - title: Computing Scholar Graduate Intern and Collaborator
     company: Lawrence Livermore National Laboratories
     company_url: 'https://www.llnl.gov/'
     company_logo: llnl-logo
     location: Livermore, California
     date_start: '2023-05-15'
-    date_end: '2023-08-18'
+    date_end: ''
     description: |2-
-      * txt 
-      * txt 
+      * Develop Autoscaling mechanism for ML and HPC Workflows and Cloud Environments (AWS, GCP)
+      * Enable Autoscaling into HPC frameworks such as Flux Framework 
+      * Enable HPC and Cloud Computing convergence 
+
   - title: Graduate Student Researcher
     company: The University of Texas at Arlington
     company_url: 'https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse'
@@ -43,7 +45,7 @@ experience:
     description: |2-
       * Optimize resource usage of microservice applications in the cloud computing 
       * Develop Resource Manager on top of kubernetes for microservices  
-      * Identify root cause of the resource bottlencecks of microservices  
+      * Identify root cause of the resource bottlenecks of microservices  
       * Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading
       
   - title: Software Engineer
@@ -54,7 +56,7 @@ experience:
     date_start: '2018-01-01'
     date_end: '2018-07-31'
     description: |2-
-      * Accelerated development phase and conserved resources of the company by introducing APIs for providing personalized recommendations, custom filtering, and targeted companies for B2B
+      * Accelerated development phase and improved business of the company by introducing APIs for providing personalized recommendations, custom filtering, and targeted companies for B2B
 
   - title: Software Engineer
     company: IPVision Soft Ltd
