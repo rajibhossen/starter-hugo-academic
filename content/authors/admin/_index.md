@@ -21,9 +21,9 @@ interests:
 - Cloud Computing
 - Microservices
 - High Performance Computing (HPC)
+- HPC in the Cloud (Converged Computing)
 - Machine Learning for Systems
 - Distributed Systems
-- HPC in the Cloud 
 
 # Education to show in About widget
 education:

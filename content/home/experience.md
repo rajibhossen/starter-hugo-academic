@@ -32,8 +32,10 @@ experience:
     date_end: ''
     description: |2-
       * Develop Autoscaling mechanism for ML and HPC Workflows and Cloud Environments (AWS, GCP)
-      * Enable Autoscaling into HPC frameworks such as Flux Framework 
-      * Enable HPC and Cloud Computing convergence 
+      * Enable Autoscaling into HPC frameworks such as Flux Framework with Cloud
+      * Enable HPC and Cloud Computing convergence (Deploying lightweight kubernetes instances with Flux in nested mood)
+      * Develop tools to automate the deployment and elasticity of HPC Apps and the cloud
+      * Tools and Technologies: Python, AWS API, BOTO3, Terraform, Bash
 
   - title: Graduate Student Researcher
     company: The University of Texas at Arlington

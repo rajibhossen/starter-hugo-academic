@@ -29,6 +29,10 @@ content:
     tag: '*'
   - name: Microesrvice
     tag: Microesrvice
+  - name: HPC 
+    tag: HPC 
+  - name: Cloud  
+    tag: Cloud
   - name: Other
     tag: Demo
 
