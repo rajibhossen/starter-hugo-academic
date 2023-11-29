@@ -31,6 +31,18 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
+- description: Container Orchestration
+  icon: "Kubernetes-Logo"
+  icon_pack: "custom"
+  name: Kubernetes 
+- description: AWS, GCP
+  icon: cloud
+  icon_pack: fas
+  name: Cloud Computing
+- description: 10%
+  icon: camera-retro
+  icon_pack: fas
+  name: Photography
 
 
 # Uncomment to use emoji icons.
