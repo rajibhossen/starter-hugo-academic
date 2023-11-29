@@ -29,6 +29,8 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: Resume
-    url: uploads/rajibhossen_resume.pdf
+    url: uploads/mdrajib_hossen_resume.pdf
     weight: 80
-
+  - name: CV 
+    url: uploads/rajibhossen_CV.pdf
+    weight: 90
