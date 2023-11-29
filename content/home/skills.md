@@ -19,18 +19,38 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: primary language
+- description: Programming Languages
   icon: python
   icon_pack: fab
-  name: Python 
+  name: Python, C++, Java, SQL, Bash
 - description: Container Orchestration
   icon: "Kubernetes-Logo"
   icon_pack: "custom"
-  name: Kubernetes 
+  name: Kubernetes, Docker
 - description: Cloud Computing
   icon: cloud
   icon_pack: fas
   name: AWS, GCP
+- name: Terraform, AWS CDK
+  icon: code 
+  icon_pack: fab 
+  description: Infrastructure-as-Code
+- name: Prometheus, Grafana, Jaeger
+  icon: "prometheus-icon"
+  icon_pack: "custom"
+  description: Monitoring and Metrics
+- name: Linux
+  icon: linux 
+  icon_pack: fab 
+  description: Operating System
+- name: MySQL, MongoDB
+  icon: database
+  icon_pack: fab 
+  description: Databases
+- name: Flux, Slurm
+  icon: server
+  icon_pack: fab 
+  description: High Performance Computing Frameworks
 
 
 # Uncomment to use emoji icons.
