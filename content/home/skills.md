@@ -33,7 +33,7 @@ feature:
   name: AWS, GCP
 - name: Terraform, AWS CDK
   icon: code 
-  icon_pack: fab 
+  icon_pack: fas
   description: Infrastructure-as-Code
 - name: Prometheus, Grafana, Jaeger
   icon: "prometheus-icon"
@@ -45,11 +45,11 @@ feature:
   description: Operating System
 - name: MySQL, MongoDB
   icon: database
-  icon_pack: fab 
+  icon_pack: fas
   description: Databases
 - name: Flux, Slurm
   icon: server
-  icon_pack: fab 
+  icon_pack: fas
   description: High Performance Computing Frameworks
 
 
