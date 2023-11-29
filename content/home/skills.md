@@ -23,27 +23,23 @@ feature:
   icon: python
   icon_pack: fab
   name: Python 
-- description: AWS, GCP
-  icon: cloud
-  icon_pack: fas
-  name: Cloud Computing
 - description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: java
+  icon_pack: fab
+  name: Java
+feature:
 - description: Container Orchestration
-  icon: "Kubernetes-Logo"
+  icon: "kubernetes_logo"
   icon_pack: "custom"
-  name: Kubernetes 
-- description: AWS, GCP
+  name: Kubernetes
+- description: Container Orchestration
+  icon: "kubernetes_logo"
+  icon_pack: "custom"
+  name: Kubernetes
+- description: Cloud Computing
   icon: cloud
   icon_pack: fas
-  name: Cloud Computing
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
-
+  name: AWS, GCP
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
