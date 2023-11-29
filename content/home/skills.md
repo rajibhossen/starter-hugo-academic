@@ -10,7 +10,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 45
 
 title: Skills
 subtitle:
@@ -19,14 +19,14 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: primary
+- description: primary language
   icon: python
   icon_pack: fab
-  name: R
+  name: Python 
 - description: AWS, GCP
   icon: cloud
   icon_pack: fas
-  name: Statistics
+  name: Cloud Computing
 - description: 10%
   icon: camera-retro
   icon_pack: fas
