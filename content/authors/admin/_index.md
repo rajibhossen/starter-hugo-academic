@@ -61,7 +61,7 @@ social:
 # and uncomment the lines below.
 - icon: resume
   icon_pack: ai
-  link: uploads/rajibhossen_resume.pdf
+  link: uploads/mdrajib_hossen_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mdrajib.hossen@mavs.uta.edu"
@@ -71,12 +71,11 @@ highlight_name: true
 ---
 
 I’m a Ph.D. Candidate in Computer Science department at the University of Texas at Arlington. 
-My PhD supervisor is Dr. Mohammad Atiqul Islam. My primary research interests include Microservices, resource scaling, mobile edge computing, and Machine Learning. My recent research focuses are on finding efficient resources for microservices, building, and 
-managing of large-scale microservice deployments, and applying machine learning in systems.
+My PhD supervisor is Dr. Mohammad Atiqul Islam. My primary research interests include Microservices, resource autoscaling, high performance computing, and Machine Learning. My recent research focuses are on enabling cloud features elasticity, autoscaling in high performance computing workflows running in the cloud,  building, and managing large-scale infrastructures in AWS, on-prem cluster, and applying machine learning in systems. I did an internship at the Lawrence Livermore National Lab during the summer of 2023 and actively collaborating with the lab. 
 
 Before joining the PhD program, I worked for 3 years as a software engineer where I gather practical experiences on 
 cloud computing, software engineer, and machine learning.
 I completed my Bachelor's in Computer Science and Engineering  from Khulna University of Engineering & Technology, Bangladesh. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/rajibhossen_resume.pdf" "newtab" >}}resumé{{< /staticref >}} / {{< staticref "uploads/rajibhossen_CV.pdf" "newtab" >}}CV{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mdrajib_hossen_resume.pdf" "newtab" >}}resumé{{< /staticref >}} / {{< staticref "uploads/rajibhossen_CV.pdf" "newtab" >}}CV{{< /staticref >}}
 
