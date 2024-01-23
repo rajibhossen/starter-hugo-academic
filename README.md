@@ -1,5 +1,12 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# Personal Website Powered by Hugo Academic
 
+
+CI/CD Implementation by Github Workflow
+
+
+
+[Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+<!-- 
 [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
 
 The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
@@ -46,4 +53,4 @@ We're an open source movement that depends on your support to stay online and th
 * [What&#39;s new in v5.1?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;whats-new-in-v5.1&#x2F;)
 * [Version 5.0 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-february-2021&#x2F;)
 * [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-3-february-2021&#x2F;)
-<!--END_SECTION:news-->
+<!--END_SECTION:news--> -->
