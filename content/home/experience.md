@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Computing Scholar Graduate Intern and Collaborator
+  - title: Computing Scholar Graduate Intern
     company: Lawrence Livermore National Laboratories
     company_url: 'https://www.llnl.gov/'
     company_logo: llnl-logo
     location: Livermore, California
     date_start: '2023-05-15'
-    date_end: ''
+    date_end: '2023-08-18'
     description: |2-
       * Develop Autoscaling mechanism for ML and HPC Workflows and Cloud Environments (AWS, GCP)
       * Enable Autoscaling into HPC frameworks such as Flux Framework with Cloud
