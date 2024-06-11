@@ -12,7 +12,7 @@ authors:
 - mohammad_islam
 
 date: "2024-05-31T00:00:00Z"
-doi: "10.1145/3632775.3661962"
+doi: "https://doi.org/10.1145/3632775.3661962"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-05-31T00:00:00Z"
@@ -48,9 +48,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3632775.3661962'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://osf.io/g3zvd/?view_only=63e9c2f0cdf547d792bdd8e93045f89e'
 url_poster: ''
 url_project: ''
 url_slides: '' 
